@@ -1,0 +1,23 @@
+[
+  {
+    "text": "手里的行情还在涨，MACD柱子却一根比一根短——现在该不该卖？",
+    "startMs": 100,
+    "endMs": 5820,
+    "timestampMs": 2960,
+    "confidence": null
+  },
+  {
+    "text": "先别急着下结论。",
+    "startMs": 5770,
+    "endMs": 7633,
+    "timestampMs": 6702,
+    "confidence": null
+  },
+  {
+    "text": "柱子变短是在提醒你动能变化，但它不是单独的卖出信号。",
+    "startMs": 7633,
+    "endMs": 12656,
+    "timestampMs": 10145,
+    "confidence": null
+  }
+]

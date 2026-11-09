@@ -1,0 +1,23 @@
+[
+  {
+    "text": "回到开头这段走势：上涨之后，价格出现回撤，正柱一根根变短，快线和信号线之间的距离也在收窄。",
+    "startMs": 100,
+    "endMs": 8794,
+    "timestampMs": 4447,
+    "confidence": null
+  },
+  {
+    "text": "接着看，价格强势反弹，正柱重新放大，动能也跟着恢复。",
+    "startMs": 8794,
+    "endMs": 14162,
+    "timestampMs": 11478,
+    "confidence": null
+  },
+  {
+    "text": "柱体变短不是卖出指令，关键看回撤后价格有没有重新走强。",
+    "startMs": 14162,
+    "endMs": 19642,
+    "timestampMs": 16902,
+    "confidence": null
+  }
+]

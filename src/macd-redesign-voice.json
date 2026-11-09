@@ -1,0 +1,690 @@
+{
+  "hook": {
+    "durationMs": 4872,
+    "captions": [
+      {
+        "text": "价格还在涨",
+        "startMs": 95,
+        "endMs": 1066,
+        "timestampMs": 580,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "MACD 的柱子却在变短",
+        "startMs": 1311,
+        "endMs": 3197,
+        "timestampMs": 2254,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "这是怎么回事",
+        "startMs": 3454,
+        "endMs": 4369,
+        "timestampMs": 3912,
+        "confidence": null,
+        "stage": 0
+      }
+    ]
+  },
+  "components": {
+    "durationMs": 21720,
+    "captions": [
+      {
+        "text": "MACD 关注的是短期和长期均线之间的距离",
+        "startMs": 95,
+        "endMs": 4046,
+        "timestampMs": 2070,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "用它来观察走势的动能",
+        "startMs": 4325,
+        "endMs": 6222,
+        "timestampMs": 5273,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "价格是结果",
+        "startMs": 6730,
+        "endMs": 7679,
+        "timestampMs": 7204,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "动能是原因",
+        "startMs": 7868,
+        "endMs": 8750,
+        "timestampMs": 8309,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "快线等于短期均线减去长期均线",
+        "startMs": 9263,
+        "endMs": 12020,
+        "timestampMs": 10642,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "信号线是快线的平滑线",
+        "startMs": 12534,
+        "endMs": 14431,
+        "timestampMs": 13482,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "变化更慢",
+        "startMs": 14654,
+        "endMs": 15435,
+        "timestampMs": 15045,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "柱体显示快线和信号线之间的距离",
+        "startMs": 15938,
+        "endMs": 18795,
+        "timestampMs": 17366,
+        "confidence": null,
+        "stage": 3
+      },
+      {
+        "text": "可以用来观察涨跌的动能变化",
+        "startMs": 19040,
+        "endMs": 21183,
+        "timestampMs": 20112,
+        "confidence": null,
+        "stage": 3
+      }
+    ]
+  },
+  "zero": {
+    "durationMs": 23280,
+    "captions": [
+      {
+        "text": "在看交叉和柱体之前",
+        "startMs": 95,
+        "endMs": 1791,
+        "timestampMs": 943,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "先看零轴",
+        "startMs": 1970,
+        "endMs": 2807,
+        "timestampMs": 2388,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "快线在零轴上方",
+        "startMs": 3315,
+        "endMs": 4632,
+        "timestampMs": 3973,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "说明短期均线高于长期均线",
+        "startMs": 4888,
+        "endMs": 7254,
+        "timestampMs": 6071,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "市场处于偏多背景",
+        "startMs": 7545,
+        "endMs": 9062,
+        "timestampMs": 8304,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "快线在零轴下方",
+        "startMs": 9576,
+        "endMs": 10882,
+        "timestampMs": 10229,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "说明短期均线低于长期均线",
+        "startMs": 11127,
+        "endMs": 13438,
+        "timestampMs": 12282,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "市场处于偏空背景",
+        "startMs": 13716,
+        "endMs": 15234,
+        "timestampMs": 14475,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "为什么零轴重要",
+        "startMs": 15748,
+        "endMs": 16953,
+        "timestampMs": 16350,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "因为同样一个交叉",
+        "startMs": 17466,
+        "endMs": 18750,
+        "timestampMs": 18108,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "出现在不同的背景里",
+        "startMs": 18984,
+        "endMs": 20469,
+        "timestampMs": 19727,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "代表的方向可能完全不同",
+        "startMs": 20703,
+        "endMs": 22746,
+        "timestampMs": 21724,
+        "confidence": null,
+        "stage": 1
+      }
+    ]
+  },
+  "golden": {
+    "durationMs": 30960,
+    "captions": [
+      {
+        "text": "快线上穿信号线",
+        "startMs": 95,
+        "endMs": 1445,
+        "timestampMs": 770,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "叫金叉",
+        "startMs": 1646,
+        "endMs": 2271,
+        "timestampMs": 1958,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "快线下穿信号线",
+        "startMs": 2779,
+        "endMs": 4141,
+        "timestampMs": 3460,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "叫死叉",
+        "startMs": 4353,
+        "endMs": 4989,
+        "timestampMs": 4671,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "先看金叉",
+        "startMs": 5502,
+        "endMs": 6417,
+        "timestampMs": 5960,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "零轴上方的金叉",
+        "startMs": 6920,
+        "endMs": 8158,
+        "timestampMs": 7539,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "发生在偏多背景里",
+        "startMs": 8404,
+        "endMs": 9821,
+        "timestampMs": 9113,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "上涨途中回踩后",
+        "startMs": 10312,
+        "endMs": 11652,
+        "timestampMs": 10982,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "快线再次上穿信号线",
+        "startMs": 11908,
+        "endMs": 13605,
+        "timestampMs": 12757,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "可能意味着上涨动能重新恢复",
+        "startMs": 13817,
+        "endMs": 16127,
+        "timestampMs": 14972,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "这种顺着大方向的金叉",
+        "startMs": 16306,
+        "endMs": 17958,
+        "timestampMs": 17132,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "可以重点关注",
+        "startMs": 18147,
+        "endMs": 19208,
+        "timestampMs": 18677,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "零轴下方的金叉",
+        "startMs": 19721,
+        "endMs": 20960,
+        "timestampMs": 20340,
+        "confidence": null,
+        "stage": 3
+      },
+      {
+        "text": "发生在偏空背景里",
+        "startMs": 21205,
+        "endMs": 22623,
+        "timestampMs": 21914,
+        "confidence": null,
+        "stage": 3
+      },
+      {
+        "text": "它可能只是下跌途中的一次反弹",
+        "startMs": 23114,
+        "endMs": 25346,
+        "timestampMs": 24230,
+        "confidence": null,
+        "stage": 3
+      },
+      {
+        "text": "如果价格仍然低点不断下移",
+        "startMs": 25670,
+        "endMs": 27879,
+        "timestampMs": 26775,
+        "confidence": null,
+        "stage": 3
+      },
+      {
+        "text": "就要小心反弹结束后继续下跌",
+        "startMs": 28080,
+        "endMs": 30446,
+        "timestampMs": 29263,
+        "confidence": null,
+        "stage": 3
+      }
+    ]
+  },
+  "death": {
+    "durationMs": 16344,
+    "captions": [
+      {
+        "text": "零轴上方出现死叉",
+        "startMs": 95,
+        "endMs": 1624,
+        "timestampMs": 859,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "可能是上涨途中的一次回调",
+        "startMs": 1858,
+        "endMs": 3867,
+        "timestampMs": 2862,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "这时候",
+        "startMs": 4375,
+        "endMs": 4978,
+        "timestampMs": 4676,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "可以观察价格回落后",
+        "startMs": 5179,
+        "endMs": 6674,
+        "timestampMs": 5926,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "能不能守住前面的低点",
+        "startMs": 6886,
+        "endMs": 8482,
+        "timestampMs": 7684,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "零轴下方出现死叉",
+        "startMs": 8996,
+        "endMs": 10536,
+        "timestampMs": 9766,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "发生在偏空背景里",
+        "startMs": 10804,
+        "endMs": 12210,
+        "timestampMs": 11507,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "可能意味着反弹结束",
+        "startMs": 12444,
+        "endMs": 13929,
+        "timestampMs": 13186,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "下降动能再次增强",
+        "startMs": 14185,
+        "endMs": 15815,
+        "timestampMs": 15000,
+        "confidence": null,
+        "stage": 1
+      }
+    ]
+  },
+  "histogram": {
+    "durationMs": 26856,
+    "captions": [
+      {
+        "text": "上涨过程中",
+        "startMs": 95,
+        "endMs": 1032,
+        "timestampMs": 563,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "绿色正柱一根比一根短",
+        "startMs": 1311,
+        "endMs": 2974,
+        "timestampMs": 2143,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "说明上涨动能可能正在减弱",
+        "startMs": 3275,
+        "endMs": 5485,
+        "timestampMs": 4380,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "动能减弱",
+        "startMs": 5993,
+        "endMs": 6775,
+        "timestampMs": 6384,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "不代表价格已经转跌",
+        "startMs": 6987,
+        "endMs": 8605,
+        "timestampMs": 7796,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "如果价格继续向上",
+        "startMs": 9118,
+        "endMs": 10547,
+        "timestampMs": 9833,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "柱体重新放大",
+        "startMs": 10737,
+        "endMs": 11886,
+        "timestampMs": 11311,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "说明上涨动能又开始增强",
+        "startMs": 12165,
+        "endMs": 14275,
+        "timestampMs": 13220,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "反过来",
+        "startMs": 14788,
+        "endMs": 15357,
+        "timestampMs": 15073,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "下跌过程中",
+        "startMs": 15658,
+        "endMs": 16596,
+        "timestampMs": 16127,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "红色负柱逐渐缩短",
+        "startMs": 16830,
+        "endMs": 18292,
+        "timestampMs": 17561,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "说明下跌动能可能正在减弱",
+        "startMs": 18549,
+        "endMs": 20781,
+        "timestampMs": 19665,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "柱体变化有时先于快慢线交叉出现",
+        "startMs": 21295,
+        "endMs": 24196,
+        "timestampMs": 22746,
+        "confidence": null,
+        "stage": 2
+      },
+      {
+        "text": "让我们更早注意到动能变化",
+        "startMs": 24487,
+        "endMs": 26339,
+        "timestampMs": 25413,
+        "confidence": null,
+        "stage": 2
+      }
+    ]
+  },
+  "divergence": {
+    "durationMs": 16176,
+    "captions": [
+      {
+        "text": "价格一次比一次涨得高",
+        "startMs": 95,
+        "endMs": 1724,
+        "timestampMs": 909,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "MACD 快线的高点却比前一次低",
+        "startMs": 1958,
+        "endMs": 4704,
+        "timestampMs": 3331,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "这叫顶背离",
+        "startMs": 4927,
+        "endMs": 5831,
+        "timestampMs": 5379,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "价格虽然创了新高",
+        "startMs": 6339,
+        "endMs": 7690,
+        "timestampMs": 7015,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "但动能没有同步增强",
+        "startMs": 7946,
+        "endMs": 9721,
+        "timestampMs": 8834,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "接下来",
+        "startMs": 10234,
+        "endMs": 10804,
+        "timestampMs": 10519,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "如果价格跌破前面的回调低点",
+        "startMs": 11127,
+        "endMs": 13292,
+        "timestampMs": 12210,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "说明上涨结构也开始转弱",
+        "startMs": 13538,
+        "endMs": 15647,
+        "timestampMs": 14593,
+        "confidence": null,
+        "stage": 1
+      }
+    ]
+  },
+  "close": {
+    "durationMs": 16416,
+    "captions": [
+      {
+        "text": "所以看 MACD",
+        "startMs": 95,
+        "endMs": 1746,
+        "timestampMs": 921,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "不要只盯着金叉和死叉",
+        "startMs": 1958,
+        "endMs": 3588,
+        "timestampMs": 2773,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "先看零轴",
+        "startMs": 4096,
+        "endMs": 4955,
+        "timestampMs": 4526,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "分清偏多还是偏空",
+        "startMs": 5156,
+        "endMs": 6629,
+        "timestampMs": 5893,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "再看交叉发生在什么位置",
+        "startMs": 6987,
+        "endMs": 8906,
+        "timestampMs": 7946,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "结合柱体",
+        "startMs": 9208,
+        "endMs": 9978,
+        "timestampMs": 9593,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "观察动能是在增强还是减弱",
+        "startMs": 10167,
+        "endMs": 12444,
+        "timestampMs": 11306,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "最后回到价格",
+        "startMs": 12779,
+        "endMs": 13873,
+        "timestampMs": 13326,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "看走势有没有给出确认",
+        "startMs": 14085,
+        "endMs": 15904,
+        "timestampMs": 14994,
+        "confidence": null,
+        "stage": 0
+      }
+    ]
+  }
+}

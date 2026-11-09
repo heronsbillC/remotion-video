@@ -1,0 +1,30 @@
+[
+  {
+    "text": "再看快线和信号线的交叉。",
+    "startMs": 100,
+    "endMs": 2650,
+    "timestampMs": 1375,
+    "confidence": null
+  },
+  {
+    "text": "偏多背景里，快线上穿，常见于回调后的动能恢复；下穿，可能是上涨放慢，也可能只是阶段性回落。",
+    "startMs": 2600,
+    "endMs": 11439,
+    "timestampMs": 7020,
+    "confidence": null
+  },
+  {
+    "text": "偏空背景里，下穿更偏向弱势延续；上穿则可能只是反弹。",
+    "startMs": 11439,
+    "endMs": 17031,
+    "timestampMs": 14235,
+    "confidence": null
+  },
+  {
+    "text": "同样的金叉或死叉，出现在零轴上下，含义可能不同。",
+    "startMs": 17031,
+    "endMs": 21774,
+    "timestampMs": 19403,
+    "confidence": null
+  }
+]

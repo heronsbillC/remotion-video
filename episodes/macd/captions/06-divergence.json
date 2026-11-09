@@ -1,0 +1,16 @@
+[
+  {
+    "text": "如果价格高点越来越高，MACD高点却越来越低，就是顶背离。",
+    "startMs": 100,
+    "endMs": 5675,
+    "timestampMs": 2888,
+    "confidence": null
+  },
+  {
+    "text": "它说明价格创新高时，动能没有同步增强，是一个需要留意的信号；但背离可能持续，要继续观察价格有没有走弱。",
+    "startMs": 5625,
+    "endMs": 15435,
+    "timestampMs": 10530,
+    "confidence": null
+  }
+]

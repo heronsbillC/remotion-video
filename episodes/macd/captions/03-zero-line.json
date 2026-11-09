@@ -1,0 +1,23 @@
+[
+  {
+    "text": "先看零轴。",
+    "startMs": 100,
+    "endMs": 1512,
+    "timestampMs": 806,
+    "confidence": null
+  },
+  {
+    "text": "快线在零轴上方，说明短期均线高于长期均线，MACD处在偏多背景；快线在零轴下方，说明短期均线低于长期均线，处在偏空背景。",
+    "startMs": 1462,
+    "endMs": 13627,
+    "timestampMs": 7545,
+    "confidence": null
+  },
+  {
+    "text": "零轴先定多空背景。",
+    "startMs": 13627,
+    "endMs": 15703,
+    "timestampMs": 14665,
+    "confidence": null
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "MACD主要看三样：快线、信号线和柱体。",
+    "startMs": 100,
+    "endMs": 4648,
+    "timestampMs": 2374,
+    "confidence": null
+  },
+  {
+    "text": "快线是短期均线减去长期均线；信号线是快线的平滑线；柱体显示快线和信号线之间的距离。",
+    "startMs": 4598,
+    "endMs": 12912,
+    "timestampMs": 8755,
+    "confidence": null
+  },
+  {
+    "text": "它们不是三种不同的买卖答案，而是从不同角度观察价格动能。",
+    "startMs": 12912,
+    "endMs": 18214,
+    "timestampMs": 15563,
+    "confidence": null
+  }
+]

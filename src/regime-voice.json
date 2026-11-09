@@ -1,0 +1,408 @@
+{
+  "opening": {
+    "durationMs": 10344,
+    "captions": [
+      {
+        "text": "你是不是也不会判断市场是趋势还是震荡行情",
+        "startMs": 95,
+        "endMs": 3700,
+        "timestampMs": 1897,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "今天给大家推荐两个我常用的指标",
+        "startMs": 4208,
+        "endMs": 6819,
+        "timestampMs": 5513,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "柴金震荡指数",
+        "startMs": 7333,
+        "endMs": 8527,
+        "timestampMs": 7930,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "价格路径效率",
+        "startMs": 8716,
+        "endMs": 9833,
+        "timestampMs": 9275,
+        "confidence": null,
+        "stage": 1
+      }
+    ]
+  },
+  "chop-principle": {
+    "durationMs": 18576,
+    "captions": [
+      {
+        "text": "先看柴金震荡指数",
+        "startMs": 95,
+        "endMs": 1735,
+        "timestampMs": 915,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "它把最近一段时间每根K线的真实波幅加起来",
+        "startMs": 2243,
+        "endMs": 5625,
+        "timestampMs": 3934,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "再和这段行情实际拉开的高低区间比较",
+        "startMs": 5971,
+        "endMs": 8895,
+        "timestampMs": 7433,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "如果中间波动很大",
+        "startMs": 9408,
+        "endMs": 10770,
+        "timestampMs": 10089,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "但价格始终没有真正走开",
+        "startMs": 11038,
+        "endMs": 13036,
+        "timestampMs": 12037,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "数值就高",
+        "startMs": 13248,
+        "endMs": 14018,
+        "timestampMs": 13633,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "如果大部分波动都变成了方向上的推进",
+        "startMs": 14163,
+        "endMs": 16998,
+        "timestampMs": 15580,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "数值就低",
+        "startMs": 17221,
+        "endMs": 18069,
+        "timestampMs": 17645,
+        "confidence": null,
+        "stage": 1
+      }
+    ]
+  },
+  "chop-zones": {
+    "durationMs": 21024,
+    "captions": [
+      {
+        "text": "柴金震荡指数高于61.8",
+        "startMs": 95,
+        "endMs": 2438,
+        "timestampMs": 1266,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "处于震荡行情",
+        "startMs": 2650,
+        "endMs": 3755,
+        "timestampMs": 3203,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "低于38.2",
+        "startMs": 4263,
+        "endMs": 5424,
+        "timestampMs": 4844,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "处于趋势行情",
+        "startMs": 5636,
+        "endMs": 6786,
+        "timestampMs": 6211,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "38.2到61.8",
+        "startMs": 7299,
+        "endMs": 9118,
+        "timestampMs": 8209,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "是过渡区",
+        "startMs": 9353,
+        "endMs": 10100,
+        "timestampMs": 9727,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "趋势不明朗",
+        "startMs": 10279,
+        "endMs": 11205,
+        "timestampMs": 10742,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "从61.8上方进入过渡区",
+        "startMs": 11708,
+        "endMs": 14040,
+        "timestampMs": 12874,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "说明震荡在缓解",
+        "startMs": 14263,
+        "endMs": 15569,
+        "timestampMs": 14916,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "从38.2下方重新回到过渡区",
+        "startMs": 15915,
+        "endMs": 18638,
+        "timestampMs": 17277,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "说明趋势开始减弱",
+        "startMs": 18839,
+        "endMs": 20491,
+        "timestampMs": 19665,
+        "confidence": null,
+        "stage": 1
+      }
+    ]
+  },
+  "ker-principle": {
+    "durationMs": 17520,
+    "captions": [
+      {
+        "text": "再看价格路径效率",
+        "startMs": 95,
+        "endMs": 1557,
+        "timestampMs": 826,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "它看的是",
+        "startMs": 2065,
+        "endMs": 2768,
+        "timestampMs": 2416,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "价格最后离起点有多远",
+        "startMs": 3058,
+        "endMs": 4855,
+        "timestampMs": 3956,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "占中间所有涨跌路径的多少",
+        "startMs": 5123,
+        "endMs": 7243,
+        "timestampMs": 6183,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "同样走10根K线",
+        "startMs": 7757,
+        "endMs": 9029,
+        "timestampMs": 8393,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "价格还在起点附近",
+        "startMs": 9308,
+        "endMs": 10815,
+        "timestampMs": 10061,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "路径效率就低",
+        "startMs": 11094,
+        "endMs": 12109,
+        "timestampMs": 11602,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "同样走10根K线",
+        "startMs": 12411,
+        "endMs": 13705,
+        "timestampMs": 13058,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "价格已经明显远离起点",
+        "startMs": 13917,
+        "endMs": 15737,
+        "timestampMs": 14827,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "路径效率就高",
+        "startMs": 16027,
+        "endMs": 17009,
+        "timestampMs": 16518,
+        "confidence": null,
+        "stage": 1
+      }
+    ]
+  },
+  "ker-zones": {
+    "durationMs": 15672,
+    "captions": [
+      {
+        "text": "价格路径效率低于0.15",
+        "startMs": 95,
+        "endMs": 2394,
+        "timestampMs": 1244,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "是强箱体震荡",
+        "startMs": 2595,
+        "endMs": 3711,
+        "timestampMs": 3153,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "0.15到0.3",
+        "startMs": 4219,
+        "endMs": 5636,
+        "timestampMs": 4927,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "是混沌或不明朗区域",
+        "startMs": 5882,
+        "endMs": 7556,
+        "timestampMs": 6719,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "高于0.3",
+        "startMs": 8069,
+        "endMs": 8996,
+        "timestampMs": 8532,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "价格开始走出方向",
+        "startMs": 9263,
+        "endMs": 10748,
+        "timestampMs": 10006,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "高于0.7",
+        "startMs": 11083,
+        "endMs": 12020,
+        "timestampMs": 11551,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "说明走势推进得更连贯",
+        "startMs": 12232,
+        "endMs": 13906,
+        "timestampMs": 13069,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "属于强趋势",
+        "startMs": 14129,
+        "endMs": 15156,
+        "timestampMs": 14643,
+        "confidence": null,
+        "stage": 1
+      }
+    ]
+  },
+  "close": {
+    "durationMs": 13704,
+    "captions": [
+      {
+        "text": "柴金震荡指数适合判断价格有没有脱离震荡区间",
+        "startMs": 95,
+        "endMs": 4157,
+        "timestampMs": 2126,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "价格路径效率适合判断收盘价有没有持续推进",
+        "startMs": 4330,
+        "endMs": 8114,
+        "timestampMs": 6222,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "通过这两个指标",
+        "startMs": 8627,
+        "endMs": 9732,
+        "timestampMs": 9180,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "帮你看清眼前更像震荡",
+        "startMs": 9989,
+        "endMs": 11886,
+        "timestampMs": 10937,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "还是趋势行情",
+        "startMs": 12098,
+        "endMs": 13192,
+        "timestampMs": 12645,
+        "confidence": null,
+        "stage": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "text": "MACD主要看三样：快线、信号线和柱体。",
+    "startMs": 100,
+    "endMs": 4648,
+    "timestampMs": 2374,
+    "confidence": null
+  },
+  {
+    "text": "快线，是短期均线减去长期均线；信号线，是快线再做一次平滑；柱体，则把快线和信号线之间的距离画出来。",
+    "startMs": 4598,
+    "endMs": 14196,
+    "timestampMs": 9397,
+    "confidence": null
+  }
+]
