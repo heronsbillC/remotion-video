@@ -1,338 +1,322 @@
 {
   "hook": {
-    "durationMs": 9672,
+    "durationMs": 10824,
     "captions": [
       {
-        "text": "价格突破 Keltner 通道上轨",
-        "startMs": 95,
-        "endMs": 2282,
-        "timestampMs": 1188,
+        "text": "凯尔特纳通道",
+        "startMs": 92,
+        "endMs": 1112,
+        "timestampMs": 602,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "为什么有的继续涨",
-        "startMs": 2561,
-        "endMs": 3711,
-        "timestampMs": 3136,
+        "text": "是用当前波动水平衡量价格的运动强弱",
+        "startMs": 1352,
+        "endMs": 4290,
+        "timestampMs": 2821,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "有的很快跌回通道",
-        "startMs": 3934,
-        "endMs": 5217,
-        "timestampMs": 4576,
-        "confidence": null,
-        "stage": 0
-      },
-      {
-        "text": "关键不是有没有突破",
-        "startMs": 5725,
-        "endMs": 7154,
-        "timestampMs": 6440,
+        "text": "它回答两个问题",
+        "startMs": 4760,
+        "endMs": 5844,
+        "timestampMs": 5302,
         "confidence": null,
         "stage": 1
       },
       {
-        "text": "而是突破后能不能站住",
-        "startMs": 7444,
-        "endMs": 9152,
-        "timestampMs": 8298,
+        "text": "这次运动有没有超出近期正常波幅",
+        "startMs": 6156,
+        "endMs": 8625,
+        "timestampMs": 7391,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "这种力量有没有持续",
+        "startMs": 8906,
+        "endMs": 10344,
+        "timestampMs": 9625,
         "confidence": null,
         "stage": 1
       }
     ]
   },
   "parts": {
-    "durationMs": 8928,
+    "durationMs": 11400,
     "captions": [
       {
-        "text": "Keltner 通道有三部分",
-        "startMs": 95,
-        "endMs": 1668,
-        "timestampMs": 881,
+        "text": "中轨 E M A 表示趋势方向",
+        "startMs": 92,
+        "endMs": 2102,
+        "timestampMs": 1097,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "中间是 E M A 均线",
-        "startMs": 1958,
-        "endMs": 3755,
-        "timestampMs": 2857,
+        "text": "上下轨由 A T R 决定",
+        "startMs": 2383,
+        "endMs": 3956,
+        "timestampMs": 3170,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "上轨和下轨",
-        "startMs": 4012,
-        "endMs": 4983,
-        "timestampMs": 4498,
+        "text": "代表近期正常波动范围",
+        "startMs": 4175,
+        "endMs": 5873,
+        "timestampMs": 5024,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "分别在 E M A 上下加减 A T R 的倍数",
-        "startMs": 5179,
-        "endMs": 8415,
-        "timestampMs": 6797,
+        "text": "价格收盘突破上轨",
+        "startMs": 6344,
+        "endMs": 7812,
+        "timestampMs": 7078,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "说明这次上涨已经超过近期通常波幅",
+        "startMs": 8094,
+        "endMs": 10917,
+        "timestampMs": 9505,
+        "confidence": null,
+        "stage": 1
+      }
+    ]
+  },
+  "expansion": {
+    "durationMs": 8592,
+    "captions": [
+      {
+        "text": "如果通道随后向上倾斜并持续扩张",
+        "startMs": 92,
+        "endMs": 2769,
+        "timestampMs": 1430,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "价格沿上轨推进",
+        "startMs": 3060,
+        "endMs": 4237,
+        "timestampMs": 3649,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "说明方向和波动同时增强",
+        "startMs": 4498,
+        "endMs": 6477,
+        "timestampMs": 5487,
+        "confidence": null,
+        "stage": 0
+      },
+      {
+        "text": "上涨力量仍在持续",
+        "startMs": 6667,
+        "endMs": 8104,
+        "timestampMs": 7385,
         "confidence": null,
         "stage": 0
       }
     ]
   },
-  "width": {
-    "durationMs": 9864,
+  "pullback": {
+    "durationMs": 11136,
     "captions": [
       {
-        "text": "A T R 变大",
-        "startMs": 95,
-        "endMs": 1110,
-        "timestampMs": 602,
+        "text": "如果价格出现回踩",
+        "startMs": 92,
+        "endMs": 1435,
+        "timestampMs": 764,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "通道变宽",
-        "startMs": 1311,
-        "endMs": 2081,
-        "timestampMs": 1696,
+        "text": "但仍守在中轨上方",
+        "startMs": 1665,
+        "endMs": 3081,
+        "timestampMs": 2373,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "A T R 变小",
-        "startMs": 2338,
-        "endMs": 3387,
-        "timestampMs": 2862,
+        "text": "趋势结构尚未被破坏",
+        "startMs": 3290,
+        "endMs": 4956,
+        "timestampMs": 4123,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "通道收窄",
-        "startMs": 3566,
-        "endMs": 4369,
-        "timestampMs": 3967,
-        "confidence": null,
-        "stage": 0
-      },
-      {
-        "text": "碰到上轨",
-        "startMs": 4877,
-        "endMs": 5658,
-        "timestampMs": 5268,
+        "text": "如果跌破中轨",
+        "startMs": 5427,
+        "endMs": 6406,
+        "timestampMs": 5917,
         "confidence": null,
         "stage": 1
       },
       {
-        "text": "不代表价格一定高",
-        "startMs": 5859,
-        "endMs": 7299,
-        "timestampMs": 6579,
+        "text": "同时通道停止扩张或转平",
+        "startMs": 6594,
+        "endMs": 8635,
+        "timestampMs": 7615,
         "confidence": null,
         "stage": 1
       },
       {
-        "text": "只是超出近期正常波动",
-        "startMs": 7578,
-        "endMs": 9341,
-        "timestampMs": 8460,
+        "text": "说明上涨力量正在减弱",
+        "startMs": 8875,
+        "endMs": 10635,
+        "timestampMs": 9755,
         "confidence": null,
         "stage": 1
       }
     ]
   },
   "compression": {
-    "durationMs": 7896,
+    "durationMs": 14568,
     "captions": [
       {
-        "text": "通道持续收窄",
-        "startMs": 95,
-        "endMs": 1177,
-        "timestampMs": 636,
+        "text": "在我的使用中",
+        "startMs": 92,
+        "endMs": 987,
+        "timestampMs": 540,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "说明 A T R 下降",
-        "startMs": 1445,
-        "endMs": 2996,
-        "timestampMs": 2221,
+        "text": "我更关注长期压缩后的突破",
+        "startMs": 1175,
+        "endMs": 3092,
+        "timestampMs": 2133,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "波动变小",
-        "startMs": 3164,
-        "endMs": 3979,
-        "timestampMs": 3571,
-        "confidence": null,
-        "stage": 0
-      },
-      {
-        "text": "收盘突破上轨后",
-        "startMs": 4475,
-        "endMs": 5871,
-        "timestampMs": 5173,
+        "text": "通道长期收窄",
+        "startMs": 3562,
+        "endMs": 4625,
+        "timestampMs": 4094,
         "confidence": null,
         "stage": 1
       },
       {
-        "text": "再看它能不能站住",
-        "startMs": 6071,
-        "endMs": 7366,
-        "timestampMs": 6719,
+        "text": "代表市场处于低波动状态",
+        "startMs": 4875,
+        "endMs": 6781,
+        "timestampMs": 5828,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "随后价格突破通道",
+        "startMs": 7115,
+        "endMs": 8417,
+        "timestampMs": 7766,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "同时带宽开始扩张",
+        "startMs": 8656,
+        "endMs": 10250,
+        "timestampMs": 9453,
+        "confidence": null,
+        "stage": 1
+      },
+      {
+        "text": "意味着市场可能正从波动压缩切换到方向性扩张",
+        "startMs": 10448,
+        "endMs": 14083,
+        "timestampMs": 12266,
         "confidence": null,
         "stage": 1
       }
     ]
   },
-  "continuation": {
-    "durationMs": 9888,
+  "false_breakout": {
+    "durationMs": 9648,
     "captions": [
       {
-        "text": "先看一段有效突破",
-        "startMs": 95,
-        "endMs": 1579,
-        "timestampMs": 837,
+        "text": "相比之下",
+        "startMs": 92,
+        "endMs": 790,
+        "timestampMs": 441,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "通道收窄后",
-        "startMs": 1858,
-        "endMs": 2818,
-        "timestampMs": 2338,
+        "text": "如果突破前没有明显压缩",
+        "startMs": 1102,
+        "endMs": 2810,
+        "timestampMs": 1956,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "价格收盘突破上轨",
-        "startMs": 3019,
-        "endMs": 4626,
-        "timestampMs": 3822,
+        "text": "突破后通道也没有持续扩张",
+        "startMs": 3040,
+        "endMs": 5081,
+        "timestampMs": 4060,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "随后通道张开",
-        "startMs": 5134,
-        "endMs": 6272,
-        "timestampMs": 5703,
-        "confidence": null,
-        "stage": 1
-      },
-      {
-        "text": "K 线连续留在上轨外",
-        "startMs": 6529,
-        "endMs": 8158,
-        "timestampMs": 7344,
-        "confidence": null,
-        "stage": 1
-      },
-      {
-        "text": "突破在延续",
-        "startMs": 8359,
-        "endMs": 9364,
-        "timestampMs": 8862,
-        "confidence": null,
-        "stage": 1
-      }
-    ]
-  },
-  "failure": {
-    "durationMs": 9144,
-    "captions": [
-      {
-        "text": "失败突破",
-        "startMs": 95,
-        "endMs": 909,
-        "timestampMs": 502,
+        "text": "只是价格短暂越过上轨",
+        "startMs": 5260,
+        "endMs": 6969,
+        "timestampMs": 6115,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "刺破上轨后",
-        "startMs": 1211,
-        "endMs": 2193,
-        "timestampMs": 1702,
+        "text": "那么假突破的可能性更高",
+        "startMs": 7271,
+        "endMs": 9167,
+        "timestampMs": 8219,
         "confidence": null,
         "stage": 0
-      },
-      {
-        "text": "很快收回通道内",
-        "startMs": 2394,
-        "endMs": 3655,
-        "timestampMs": 3024,
-        "confidence": null,
-        "stage": 0
-      },
-      {
-        "text": "再跌破中线",
-        "startMs": 3856,
-        "endMs": 4838,
-        "timestampMs": 4347,
-        "confidence": null,
-        "stage": 0
-      },
-      {
-        "text": "上轨外没站住",
-        "startMs": 5346,
-        "endMs": 6518,
-        "timestampMs": 5932,
-        "confidence": null,
-        "stage": 1
-      },
-      {
-        "text": "价格回到原来的波动范围",
-        "startMs": 6775,
-        "endMs": 8627,
-        "timestampMs": 7701,
-        "confidence": null,
-        "stage": 1
       }
     ]
   },
   "close": {
-    "durationMs": 6720,
+    "durationMs": 8712,
     "captions": [
       {
-        "text": "看 Keltner 通道",
-        "startMs": 95,
-        "endMs": 1233,
-        "timestampMs": 664,
+        "text": "所以看凯尔特纳通道",
+        "startMs": 92,
+        "endMs": 1779,
+        "timestampMs": 935,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "只看三步",
-        "startMs": 1467,
-        "endMs": 2249,
-        "timestampMs": 1858,
+        "text": "突破前看压缩",
+        "startMs": 2050,
+        "endMs": 3123,
+        "timestampMs": 2586,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "中线方向",
-        "startMs": 2483,
-        "endMs": 3298,
-        "timestampMs": 2890,
+        "text": "突破后看通道扩张和中轨转向",
+        "startMs": 3425,
+        "endMs": 5915,
+        "timestampMs": 4670,
         "confidence": null,
         "stage": 0
       },
       {
-        "text": "是否收在通道外",
-        "startMs": 3499,
-        "endMs": 4704,
-        "timestampMs": 4101,
-        "confidence": null,
-        "stage": 0
-      },
-      {
-        "text": "能不能留在通道外",
-        "startMs": 4927,
-        "endMs": 6211,
-        "timestampMs": 5569,
+        "text": "最后看价格能否留在通道外",
+        "startMs": 6073,
+        "endMs": 8219,
+        "timestampMs": 7146,
         "confidence": null,
         "stage": 0
       }
