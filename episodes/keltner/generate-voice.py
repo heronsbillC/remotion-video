@@ -12,30 +12,29 @@ OUT.mkdir(parents=True, exist_ok=True)
 
 SCENES = {
     "hook": [
-        "价格突破 Keltner 通道上轨，为什么有的继续涨，有的很快跌回通道？",
-        "关键不是有没有突破，而是突破后能不能站住。",
+        "凯尔特纳通道，是用当前波动水平衡量价格的运动强弱。",
+        "它回答两个问题：这次运动有没有超出近期正常波幅，这种力量有没有持续。",
     ],
     "parts": [
-        "Keltner 通道有三部分：中间是 E M A 均线；上轨和下轨，分别在 E M A 上下加减 A T R 的倍数。",
+        "中轨 E M A 表示趋势方向；上下轨由 A T R 决定，代表近期正常波动范围。",
+        "价格收盘突破上轨，说明这次上涨已经超过近期通常波幅。",
     ],
-    "width": [
-        "A T R 变大，通道变宽；A T R 变小，通道收窄。",
-        "碰到上轨，不代表价格一定高；只是超出近期正常波动。",
+    "expansion": [
+        "如果通道随后向上倾斜并持续扩张，价格沿上轨推进，说明方向和波动同时增强，上涨力量仍在持续。",
+    ],
+    "pullback": [
+        "如果价格出现回踩，但仍守在中轨上方，趋势结构尚未被破坏。",
+        "如果跌破中轨，同时通道停止扩张或转平，说明上涨力量正在减弱。",
     ],
     "compression": [
-        "通道持续收窄，说明 A T R 下降、波动变小。",
-        "收盘突破上轨后，再看它能不能站住。",
+        "在我的使用中，我更关注长期压缩后的突破。",
+        "通道长期收窄，代表市场处于低波动状态；随后价格突破通道，同时带宽开始扩张，意味着市场可能正从波动压缩切换到方向性扩张。",
     ],
-    "continuation": [
-        "先看一段有效突破：通道收窄后，价格收盘突破上轨。",
-        "随后通道张开，K 线连续留在上轨外，突破在延续。",
-    ],
-    "failure": [
-        "失败突破：刺破上轨后，很快收回通道内，再跌破中线。",
-        "上轨外没站住，价格回到原来的波动范围。",
+    "false_breakout": [
+        "相比之下，如果突破前没有明显压缩，突破后通道也没有持续扩张，只是价格短暂越过上轨，那么假突破的可能性更高。",
     ],
     "close": [
-        "看 Keltner 通道，只看三步：中线方向，是否收在通道外，能不能留在通道外。",
+        "所以看凯尔特纳通道：突破前看压缩；突破后看通道扩张和中轨转向；最后看价格能否留在通道外。",
     ],
 }
 
@@ -43,7 +42,7 @@ def norm(text):
     return re.sub(r"[^\w\u4e00-\u9fff]", "", text).lower()
 
 async def make_scene(name, paragraphs):
-    communicate = edge_tts.Communicate("".join(paragraphs), "zh-CN-XiaoxiaoNeural", rate="+12%", boundary="WordBoundary")
+    communicate = edge_tts.Communicate("".join(paragraphs), "zh-CN-XiaoxiaoNeural", rate="+20%", boundary="WordBoundary")
     chunks, words = [], []
     async for item in communicate.stream():
         if item["type"] == "audio":
